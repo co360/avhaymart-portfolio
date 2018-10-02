@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import WorkContainer from '../WorkContainer';
+// import WorkContainer from '../WorkContainer';
 import './MyWork.css'
 
 class MyWork extends Component {
@@ -9,7 +9,7 @@ class MyWork extends Component {
             <div className="my-work">
                 <h2>{this.props.title}</h2>
 
-                {this.props.work.work.map((item) => {
+                {/* {this.props.work.work.map((item) => {
                     return (
                         <WorkContainer
                             title={item.title}
@@ -18,7 +18,7 @@ class MyWork extends Component {
                             tech={item.tech}
                         />
                     )
-                })}
+                })} */}
             </div>
         )
     }
