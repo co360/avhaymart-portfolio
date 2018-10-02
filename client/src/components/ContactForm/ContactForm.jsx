@@ -22,8 +22,8 @@ class ContactForm extends Component {
         const { name, email, message } = this.state;
 
         axios.post('/send', { name, email, message })
-          .then((result) => {
-            //access the results here....
+          .then((res) => {
+            console.log(res)
           });
       }
 
