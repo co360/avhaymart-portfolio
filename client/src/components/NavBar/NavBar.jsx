@@ -30,8 +30,8 @@ class NavBar extends Component {
                     <div className="nav-links">
                         <ul>
                             <li><Link active-class="active" id="home-link" to="hero-scroll" spy={true} offset={-80} smooth={true} duration={500}>Home</Link></li>
-                            <li><Link active-class="active" to="work-scroll" spy={true} offset={-80} smooth={true} duration={500}>My Work</Link></li>
-                            <li><Link active-class="active" to="contact-scroll" spy={true} offset={-80} smooth={true} duration={500}>Contact</Link></li>
+                            <li><Link active-class="active" to="work-scroll" spy={true} offset={-60} smooth={true} duration={500}>My Work</Link></li>
+                            <li><Link active-class="active" to="contact-scroll" spy={true} offset={-60} smooth={true} duration={500}>Contact</Link></li>
                         </ul>
                     </div>
                 </div>
