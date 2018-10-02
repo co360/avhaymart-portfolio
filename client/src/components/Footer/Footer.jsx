@@ -11,7 +11,7 @@ class Footer extends Component {
                     </div>
 
                     <div className="footer-col">
-                        <a href="https://github.com/avhaymart/avhaymart-portfolio" target="_blank">Github Repo</a>
+                        <a href="https://github.com/avhaymart/avhaymart-portfolio" target="_blank" rel="noopener noreferrer">Github Repo</a>
                     </div>
 
                     <div className="footer-col">

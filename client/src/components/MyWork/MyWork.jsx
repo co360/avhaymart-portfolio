@@ -13,6 +13,7 @@ class MyWork extends Component {
                     {this.props.work.work.map((item) => {
                         return (
                             <WorkContainer
+                                key={item.title}
                                 title={item.title}
                                 link={item.link}
                                 desc={item.description}

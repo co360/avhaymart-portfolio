@@ -25,28 +25,34 @@ class App extends Component {
       <PageContainer>
         <NavBar />
         {/* Hero Section */}
-        <Section>
-          <Hero social={social}/>
-        </Section>
+        <div id="hero-scroll">
+          <Section odd='true'>
+            <Hero social={social} />
+          </Section>
 
-        <Section>
-          <AboutMe title="A little bit about me..."/>
-        </Section>
+          <Section>
+            <AboutMe title="A little bit about me..." />
+          </Section>
 
-        <Section>
-          <Skills title="A few skills I have..."
-          icons={icons}/>
-        </Section>
+          <Section odd='true'>
+            <Skills title="A few skills I have..."
+              icons={icons} />
+          </Section>
 
-        <Section>
-          <MyWork title="My Work" work={work} />
-        </Section>
+        </div>
+        <div id="work-scroll">
+          <Section>
+            <MyWork title="My Work" work={work} />
+          </Section>
+        </div>
 
-        <Section>
-          <Contact title="Feel Free to Say Hi." />
-        </Section>
+        <div id="contact-scroll">
+          <Section odd='true'>
+            <Contact title="Feel Free to Say Hi." />
+          </Section>
 
-        <Footer />
+          <Footer />
+        </div>
 
       </PageContainer>
     );

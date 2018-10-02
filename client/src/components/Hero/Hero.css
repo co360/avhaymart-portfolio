@@ -2,8 +2,8 @@
     min-height: 500px;
     height: inherit;
     width: 100%;
-    padding-top: 125px; 
-    margin-top: -65px;
+    /* padding-top: 125px; 
+    margin-top: -65px; */
 
     display: flex;
     align-items: center;

@@ -19,7 +19,7 @@
 }
 
 .nav-links {
-    height: 57px;
+    height: 60px;
 }
 
 .nav-links ul {
@@ -29,41 +29,38 @@
     list-style: none;
 }
 
-
 .nav-links li {
-
     height: 57px;
     width: 130px;
     margin-top: 2px;
+
     text-decoration: none;
-    
 }
 
 .nav-links li a {
-    width:100%;
+    width: 100%;
     height: 100%;
     padding: 10px 25px;
+    margin-bottom:3px;
     display: flex;
     align-items: center;
     justify-content: center;
-
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     font-size: 16px;
     text-align: center;
     text-decoration: none;
     color: #333;
+    border-bottom: 3px solid white;
+}
+
+.active {
+    /* !important used for react-scroll */
+    border-bottom: 3px solid #a972ba !important;
 }
 
 .nav-links li:hover {
     opacity: 0.7;
     cursor: pointer;
-}
-
-
-
-.selector {
-    width: 390px;
-    height: 3px;
 }
 
 .selector-bar {
