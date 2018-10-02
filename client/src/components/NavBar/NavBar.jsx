@@ -8,9 +8,9 @@ class NavBar extends Component {
                 <div className="nav-right pull-right">
                     <div className="nav-links">
                         <ul>
-                            <li>Home</li>
-                            <li>My Work</li>
-                            <li>Contact</li>
+                            <li><a id="home-link" href="#hero">Home</a></li>
+                            <li><a href="#work">My Work</a></li>
+                            <li><a>Contact</a></li>
                         </ul>
                     </div>
                     <div className="selector">

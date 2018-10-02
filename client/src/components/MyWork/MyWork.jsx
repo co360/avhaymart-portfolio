@@ -6,7 +6,7 @@ import './MyWork.css'
 class MyWork extends Component {
     render() {
         return (
-            <div className="my-work">
+            <div id="work" className="my-work">
                 <h2>{this.props.title}</h2>
 
                 <div className="work-map">
