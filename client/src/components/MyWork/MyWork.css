@@ -1,3 +1,26 @@
 .my-work {
-    width: 80%;
+    width: 60%;
+}
+
+.work-map {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width : 991px) {
+    .my-work {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width : 767px) {
+    .my-work {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width : 479px) {
+    /* Styles */
 }

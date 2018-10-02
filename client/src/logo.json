@@ -1,21 +1,27 @@
 {
     "icons":[
         {
+            "name":"Bootstrap",
             "url":"./img/logo-bootstrap.png"
         }, 
         {
+            "name":"GitHub",
             "url":"./img/logo-github.png"
         }, 
         {
+            "name":"Mongo",
             "url":"./img/logo-mongo.png"
         }, 
         {
+            "name":"MySQL",
             "url":"./img/logo-mysql.png"
         }, 
         {
+            "name":"Node.js",
             "url":"./img/logo-node.png"
         }, 
         {
+            "name":"React",
             "url":"./img/logo-react.png"
         }
         

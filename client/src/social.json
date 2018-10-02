@@ -1,0 +1,15 @@
+{
+    "icons":[
+        {
+            "name":"LinkedIn",
+            "imgUrl":"./img/social-icons/linkedin.png",
+            "url":"https://www.linkedin.com/in/avonlea-haymart-3b9887156/"
+        }, 
+        {
+            "name":"GitHub",
+            "imgUrl":"./img/social-icons/github.png",
+            "url":"https://github.com/avhaymart"
+        }
+
+    ]
+}

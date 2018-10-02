@@ -15,6 +15,7 @@ import MyWork from './components/MyWork';
 
 import icons from './logo.json';
 import work from './work.json';
+import social from './social.json';
 
 class App extends Component {
   render() {
@@ -23,7 +24,7 @@ class App extends Component {
         <NavBar />
         {/* Hero Section */}
         <Section>
-          <Hero />
+          <Hero social={social}/>
         </Section>
 
         <Section>

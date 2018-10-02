@@ -20,7 +20,6 @@
     color: #333;
     font-size: 35px;
     font-family: "Oswald", Impact, 'Arial Narrow Bold', sans-serif;
-
     padding-bottom: 15px;
 }
 
@@ -36,4 +35,18 @@
     margin: 5px;
     border-radius: 100%;
     background-color: #333;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icon:hover {
+    background-color: #a972ba;
+    cursor: pointer;
+}
+
+.icon img {
+    width: 16px;
 }
