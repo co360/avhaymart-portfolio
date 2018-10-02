@@ -2,6 +2,7 @@
     min-height: 400px;
     height: inherit;
     width: 100%;
+    padding-top: 60px;
 
     display: flex;
     align-items: center;
@@ -18,7 +19,7 @@
 .hero-heading {
     color: #333;
     font-size: 35px;
-    font-family: "Oswald", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Oswald", Impact, 'Arial Narrow Bold', sans-serif;
 
     padding-bottom: 15px;
 }

@@ -1,0 +1,29 @@
+{
+    "work":[
+        {
+            "title":"Stocks and Info",
+            "description":"A project by Avonlea Haymart, Noah Neighbours, and Dominic Griffis. Main features include cryptocurrency, the ability to save stocks, and search functionality.",
+            "tech":"React.js, Express, Node.js, MongoDB, Passport",
+            "link":"https://github.com/nneighbo/project-3"
+        }, 
+        {
+            "title":"Shibi Collector",
+            "description":"A very simple number game.",
+            "tech":"Bootstrap, jQuery",
+            "link":"https://github.com/avhaymart/shibi-collector"
+        }, 
+        {
+            "title":"MongoDB News Scrapper",
+            "description":"This website scrapes data from a car news website, and stores them into a database. It allows the user to save articles and add notes to them.",
+            "tech":"Handlebars.js, MongoDB, Bootstrap",
+            "link":"https://avhaymart-mongo-news.herokuapp.com/"
+        }, 
+        {
+            "title":"Train Time",
+            "description":"A train time app. This calculates the next train arrival time based on the current time, and the time of arrival. It stores previously added train times into Firebase.",
+            "tech":"Bootstrap, Moment.js, Firebase",
+            "link":"https://github.com/avhaymart/train-time"
+        }
+        
+    ]
+}
