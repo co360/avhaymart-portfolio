@@ -1,0 +1,24 @@
+{
+    "icons":[
+        {
+            "url":"./img/logo-bootstrap.png"
+        }, 
+        {
+            "url":"./img/logo-github.png"
+        }, 
+        {
+            "url":"./img/logo-mongo.png"
+        }, 
+        {
+            "url":"./img/logo-mysql.png"
+        }, 
+        {
+            "url":"./img/logo-node.png"
+        }, 
+        {
+            "url":"./img/logo-react.png"
+        }
+        
+        
+    ]
+}
