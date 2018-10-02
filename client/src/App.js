@@ -12,6 +12,8 @@ import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
 import Skills from './components/Skills';
 import MyWork from './components/MyWork';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 import icons from './logo.json';
 import work from './work.json';
@@ -39,6 +41,12 @@ class App extends Component {
         <Section>
           <MyWork title="My Work" work={work} />
         </Section>
+
+        <Section>
+          <Contact title="Feel Free to Say Hi." />
+        </Section>
+
+        <Footer />
 
       </PageContainer>
     );

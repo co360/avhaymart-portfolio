@@ -10,7 +10,7 @@ class NavBar extends Component {
                         <ul>
                             <li><a id="home-link" href="#hero">Home</a></li>
                             <li><a href="#work">My Work</a></li>
-                            <li><a>Contact</a></li>
+                            <li><a href="#contact">Contact</a></li>
                         </ul>
                     </div>
                     <div className="selector">

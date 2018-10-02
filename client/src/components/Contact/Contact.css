@@ -1,0 +1,27 @@
+#contact {
+    width: 40%;
+    padding-top:80px;
+    margin-top:-80px;
+}
+
+.contact-subheading {
+    text-align: center;
+    margin-top: -5px;
+    font-size: 20px;
+}
+
+@media only screen and (max-width : 991px) {
+    #contact {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width : 767px) {
+    #contact {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width : 479px) {
+    /* Styles */
+}
