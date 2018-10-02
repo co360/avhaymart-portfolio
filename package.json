@@ -25,6 +25,7 @@
     "express": "^4.15.4",
     "gmail-send": "^1.2.14",
     "if-env": "^1.0.4",
-    "react-scroll": "^1.7.10"
+    "react-scroll": "^1.7.10",
+    "react-transition-group": "^2.5.0"
   }
 }

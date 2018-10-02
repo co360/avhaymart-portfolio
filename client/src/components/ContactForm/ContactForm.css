@@ -1,6 +1,10 @@
 .contact-form {
     width: 100%;
     margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
 }
 
 .contact-form form {
@@ -43,3 +47,12 @@
 .contact-form form button:focus {
     outline:none;
 }
+
+.contact-form form textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+/* .loading {
+    display: none;
+} */

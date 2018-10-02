@@ -1,29 +1,5 @@
-# Create React Express App
+# Avonlea Haymart's Portfolio Repository
 
-## About This Boilerplate
+My idea was to make a very modern, spacious design. The website includes my contact info, as well as a form to send messages directly to my email.
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
-
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
-
-## Starting the app locally
-
-Start by installing front and backend dependencies. While in this directory, run the following command:
-
-```
-yarn install
-```
-
-This should install node modules within the server and the client folder.
-
-After both installations complete, run the following command in your terminal:
-
-```
-yarn start
-```
-
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
-
-## Deployment (Heroku)
-
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+The technologies this project uses are React, Express, a GMail fork of nodemailer, and Node.js.
