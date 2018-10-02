@@ -19,10 +19,10 @@
             "link":"https://avhaymart-mongo-news.herokuapp.com/"
         }, 
         {
-            "title":"Train Time",
-            "description":"A train time app. This calculates the next train arrival time based on the current time, and the time of arrival. It stores previously added train times into Firebase.",
-            "tech":"Bootstrap, Moment.js, Firebase",
-            "link":"https://github.com/avhaymart/train-time"
+            "title":"Drugs and Info",
+            "description":"A basic medication website. It displays news articles, and enables the user to look up a medication to find information on it.",
+            "tech":"OpenFDA and NYT API, Node.js, Express",
+            "link":"https://github.com/avhaymart/Class-Project-1"
         }
         
     ]
