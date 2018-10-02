@@ -1,0 +1,9 @@
+.section {
+    min-height: 400px;
+    width: 100%;
+    background-color:#f4f4f4;
+}
+
+.section:nth-child(odd) {
+    background-color:#ffffff;
+}
