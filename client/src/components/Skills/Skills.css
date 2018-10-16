@@ -10,7 +10,13 @@
     flex-wrap: wrap;
 }
 
-.icons img {
-    max-height: 25px;
+.skill-container {
+    max-height: 55px;
+    max-width: 100px;
     margin: 10px 20px;
+}
+
+.skill-container img {
+    max-height: inherit;
+    max-width: inherit;
 }

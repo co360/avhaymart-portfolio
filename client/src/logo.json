@@ -1,6 +1,22 @@
 {
     "icons":[
         {
+            "name":"HTML5",
+            "url":"./img/logo-html5.png"
+        }, 
+        {
+            "name":"CSS3",
+            "url":"./img/logo-css3.png"
+        }, 
+        {
+            "name":"Javascript",
+            "url":"./img/logo-javascript.png"
+        }, 
+        {
+            "name":"jQuery",
+            "url":"./img/logo-jquery.png"
+        }, 
+        {
             "name":"Bootstrap",
             "url":"./img/logo-bootstrap.png"
         }, 
@@ -23,6 +39,14 @@
         {
             "name":"React",
             "url":"./img/logo-react.png"
+        },
+        {
+            "name":"Handlebars.js",
+            "url":"./img/logo-handlebars.png"
+        },
+        {
+            "name":"Express",
+            "url":"./img/logo-express.png"
         }
         
         

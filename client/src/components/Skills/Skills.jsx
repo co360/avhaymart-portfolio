@@ -10,7 +10,9 @@ class Skills extends Component {
                 <div className="icons">
                 {this.props.icons.icons.map((icon) => {
                     return (
-                        <img key={icon.name} src={icon.url} alt={icon.name} />
+                        <div className="skill-container">
+                            <img key={icon.name} src={icon.url} alt={icon.name} />
+                        </div>
                     )
                 })}
                 </div>

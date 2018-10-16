@@ -2,25 +2,25 @@
     "work":[
         {
             "title":"Stocks and Info",
-            "description":"A project by Avonlea Haymart, Noah Neighbours, and Dominic Griffis. Main features include cryptocurrency, the ability to save stocks, and search functionality.",
+            "description":"A project by Avonlea Haymart, Noah Neighbors, and Dominic Griffis. Main features include cryptocurrency, the ability to save stocks, and search functionality. We wanted to make a website that allowed users to view stocks without having to make an account.",
             "tech":"React.js, Express, Node.js, MongoDB, Passport",
             "link":"https://github.com/nneighbo/project-3"
         }, 
         {
             "title":"Shibi Collector",
-            "description":"A very simple number game.",
+            "description":"This web app is a number game. The concept is to add up enough numbers to meet the current target. Each shibi avatar is assigned a random integer value every time the game resets.",
             "tech":"Bootstrap, jQuery",
             "link":"https://github.com/avhaymart/shibi-collector"
         }, 
         {
             "title":"MongoDB News Scrapper",
             "description":"This website scrapes data from a car news website, and stores them into a database. It allows the user to save articles and add notes to them.",
-            "tech":"Handlebars.js, MongoDB, Bootstrap",
+            "tech":"Bootstrap, Handlebars.js, MongoDB",
             "link":"https://avhaymart-mongo-news.herokuapp.com/"
         }, 
         {
             "title":"Drugs and Info",
-            "description":"A basic medication website. It displays news articles, and enables the user to look up a medication to find information on it.",
+            "description":"A medication website by Avonlea Haymart, Noah Neighbors, and Dominic Griffis. The main purpose of this website was to make a mobile-friendly, modern looking experience. It enables the user to look up medications and view their properties. The website also displays news articles related to medicine.",
             "tech":"OpenFDA and NYT API, Node.js, Express",
             "link":"https://github.com/avhaymart/Class-Project-1"
         }
