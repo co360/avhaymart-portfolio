@@ -16,7 +16,7 @@
             "title":"MongoDB News Scrapper",
             "description":"This website scrapes data from a car news website, and stores them into a database. It allows the user to save articles and add notes to them.",
             "tech":"Bootstrap, Handlebars.js, MongoDB",
-            "link":"https://avhaymart-mongo-news.herokuapp.com/"
+            "link":"https://github.com/avhaymart/Mongo-Scrape-News"
         }, 
         {
             "title":"Drugs and Info",
