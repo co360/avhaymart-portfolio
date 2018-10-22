@@ -5,6 +5,7 @@ class WorkContainer extends Component {
     render(){
         return(
             <a href={this.props.link} target="_blank" className="work-container">
+                <img src={this.props.title} alt={this.props.title}/>
                 <h3>{this.props.title}</h3>
                 <p>{this.props.desc}</p>
                 <p>Technologies Used: {this.props.tech}</p>
