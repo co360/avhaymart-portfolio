@@ -1,14 +1,19 @@
-import React,{Component} from 'react';
+import React, { Component } from 'react';
 import './WorkContainer.css'
 
 class WorkContainer extends Component {
-    render(){
-        return(
-            <a href={this.props.link} target="_blank" className="work-container">
+    render() {
+        return (
+            <div className="work-container">
+                <img src={this.props.image} alt={this.props.title} />
                 <h3>{this.props.title}</h3>
                 <p>{this.props.desc}</p>
                 <p>Technologies Used: {this.props.tech}</p>
-            </a>
+                <div className="link-container">
+                    <a href={this.props.github} target="_blank">GitHub Repository</a>
+                    <a href={this.props.deployed} target="_blank">Deployed Web App</a>
+                </div>
+            </div>
         )
     }
 }

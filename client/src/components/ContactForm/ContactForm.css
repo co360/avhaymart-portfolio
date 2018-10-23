@@ -34,23 +34,20 @@
     margin-bottom: 15px;
 }
 
-.contact-form form button {
-    margin-top: 10px;
-    background-color: #a972ba;
-    border: 1px solid #9c69aa;
-    width: 100%;
-    color: white;
-    padding: 10px;
-    border-radius: 3px;
-}
-
-.contact-form form button:focus {
-    outline:none;
-}
-
 .contact-form form textarea {
     resize: vertical;
     min-height: 100px;
+}
+
+
+.contact-form form button {
+    width: 100%;
+}
+
+  
+
+.button-container {
+    display: flex;
 }
 
 /* .loading {

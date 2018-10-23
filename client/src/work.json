@@ -2,27 +2,35 @@
     "work":[
         {
             "title":"Stocks and Info",
+            "image":"/img/website-stocks.png",
             "description":"A project by Avonlea Haymart, Noah Neighbors, and Dominic Griffis. Main features include cryptocurrency, the ability to save stocks, and search functionality. We wanted to make a website that allowed users to view stocks without having to make an account.",
             "tech":"React.js, Express, Node.js, MongoDB, Passport",
-            "link":"https://github.com/nneighbo/project-3"
+            "github":"https://github.com/nneighbo/project-3",
+            "deployed":"https://stormy-dusk-39692.herokuapp.com/"
         }, 
         {
             "title":"Shibi Collector",
+            "image":"/img/website-shibi.png",
             "description":"This web app is a number game. The concept is to add up enough numbers to meet the current target. Each shibi avatar is assigned a random integer value every time the game resets.",
             "tech":"Bootstrap, jQuery",
-            "link":"https://github.com/avhaymart/shibi-collector"
+            "github":"https://github.com/avhaymart/shibi-collector",
+            "deployed":"https://avhaymart.github.io/shibi-collector/"
         }, 
         {
             "title":"MongoDB News Scrapper",
+            "image":"/img/website-mongo.png",
             "description":"This website scrapes data from a car news website, and stores them into a database. It allows the user to save articles and add notes to them.",
             "tech":"Bootstrap, Handlebars.js, MongoDB",
-            "link":"https://github.com/avhaymart/Mongo-Scrape-News"
+            "github":"https://github.com/avhaymart/Mongo-Scrape-News",
+            "deployed":"https://avhaymart-mongo-news.herokuapp.com/"
         }, 
         {
             "title":"Drugs and Info",
+            "image":"/img/website-drugs-and-info.png",
             "description":"A medication website by Avonlea Haymart, Noah Neighbors, and Dominic Griffis. The main purpose of this website was to make a mobile-friendly, modern looking experience. It enables the user to look up medications and view their properties. The website also displays news articles related to medicine.",
             "tech":"OpenFDA and NYT API, Node.js, Express",
-            "link":"https://github.com/avhaymart/Class-Project-1"
+            "github":"https://github.com/avhaymart/Class-Project-1",
+            "deployed":"https://avhaymart.github.io/Class-Project-1/"
         }
         
     ]

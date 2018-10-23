@@ -15,7 +15,9 @@ class MyWork extends Component {
                             <WorkContainer
                                 key={item.title}
                                 title={item.title}
-                                link={item.link}
+                                image={item.image}
+                                github={item.github}
+                                deployed={item.deployed}
                                 desc={item.description}
                                 tech={item.tech}
                             />

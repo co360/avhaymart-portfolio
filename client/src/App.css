@@ -11,3 +11,22 @@ html, body {
 body {
   user-select: none;
 }
+
+button {
+  margin-top: 10px;
+  background-color: #a972ba;
+  border: 1px solid #9c69aa;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #A972BA;
+}
+
+
+button:focus {
+  outline:none;
+}

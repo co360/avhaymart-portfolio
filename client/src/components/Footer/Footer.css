@@ -31,10 +31,6 @@
     flex:4;
 }
 
-.footer-col a {
-    text-decoration: none;
-    color: #A972BA;
-}
 
 .footer-col:nth-child(2){
     text-align: center;
