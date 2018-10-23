@@ -2,7 +2,11 @@
     "work":[
         {
             "title":"Stocks and Info",
+<<<<<<< HEAD
             "image":"/img/website-stocks.png",
+=======
+            "image":"../public/img/website-shibi.png",
+>>>>>>> 5e69d96b900d1269253f352f27f95c3754610f36
             "description":"A project by Avonlea Haymart, Noah Neighbors, and Dominic Griffis. Main features include cryptocurrency, the ability to save stocks, and search functionality. We wanted to make a website that allowed users to view stocks without having to make an account.",
             "tech":"React.js, Express, Node.js, MongoDB, Passport",
             "github":"https://github.com/nneighbo/project-3",
