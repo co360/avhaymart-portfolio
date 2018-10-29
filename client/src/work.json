@@ -9,6 +9,14 @@
             "deployed":"https://stormy-dusk-39692.herokuapp.com/"
         }, 
         {
+            "title":"Software Company",
+            "image":"/img/website-software-company.jpg",
+            "description":"This software company website has popping imperial red accents, which makes this one of my favorite pieces of work. I built the website upon React.js for the most efficient workflow.",
+            "tech":"React.js, Express, Node.js",
+            "github":"https://github.com/avhaymart/Software-Company-Website",
+            "deployed":"https://software-company.herokuapp.com/"
+        }, 
+        {
             "title":"Shibi Collector",
             "image":"/img/website-shibi.png",
             "description":"This web app is a number game. The concept is to add up enough numbers to meet the current target. Each shibi avatar is assigned a random integer value every time the game resets.",
