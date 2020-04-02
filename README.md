@@ -1,6 +1,6 @@
 # Avonlea Haymart's Portfolio Repository
 
-![Avonlea Haymart's Portfolio](https://preview.ibb.co/hPiN6V/portfolio.png)
+![Avonlea Haymart's Portfolio](https://i.ibb.co/kJFwPcr/screenshot.jpg)
 
 * Team Members
    * Avonlea Haymart
