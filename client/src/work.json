@@ -31,15 +31,6 @@
             "tech":"Bootstrap, Handlebars.js, MongoDB",
             "github":"https://github.com/avhaymart/Mongo-Scrape-News",
             "deployed":"https://avhaymart-mongo-news.herokuapp.com/"
-        }, 
-        {
-            "title":"Drugs and Info",
-            "image":"/img/website-drugs-and-info.png",
-            "description":"A medication website by Avonlea Haymart, Noah Neighbors, and Dominic Griffis. The main purpose of this website was to make a mobile-friendly, modern looking experience. It enables the user to look up medications and view their properties. The website also displays news articles related to medicine.",
-            "tech":"OpenFDA and NYT API, Node.js, Express",
-            "github":"https://github.com/avhaymart/Class-Project-1",
-            "deployed":"https://avhaymart.github.io/Class-Project-1/"
         }
-        
     ]
 }

@@ -1,10 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-
-// Components
-
-// import {Button} from 'react-bootstrap';
-
 import PageContainer from './components/PageContainer';
 import NavBar from './components/NavBar';
 import Section from './components/Section';
@@ -31,12 +26,12 @@ class App extends Component {
           </Section>
 
           <Section>
-            <AboutMe title="A little bit about me..." />
+            <AboutMe title="Welcome!" />
           </Section>
 
           <Section odd='true'>
-            <Skills title="A few skills I have..."
-              icons={icons} />
+            <Skills title="My Top Skills"
+              icons={icons.icons} />
           </Section>
 
         </div>

@@ -1,14 +1,19 @@
 #hero {
-    min-height: 400px;
-    height: inherit;
+    min-height: 480px;
+    background-image: url('/img/hero.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 80vh;
     width: 100%;
     padding-top:80px;
+    margin-bottom: -80px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-
 
 #hero::before {
     content:"";
@@ -22,19 +27,20 @@
     width: 84px;
     height:84px;
     border-radius: 100%;
+    border: 1px solid rgb(194, 194, 194);
 }
 
 .hero-heading {
     color: #333;
     font-size: 35px;
     font-family: "Oswald", Impact, 'Arial Narrow Bold', sans-serif;
-    padding-bottom: 15px;
 }
 
 .social-icons {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 10px;
 }
 
 .icon {

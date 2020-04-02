@@ -8,7 +8,7 @@ class Skills extends Component {
                 <h2>{this.props.title}</h2>
 
                 <div className="icons">
-                {this.props.icons.icons.map((icon) => {
+                {this.props.icons.map((icon) => {
                     return (
                         <div className="skill-container">
                             <img key={icon.name} src={icon.url} alt={icon.name} />

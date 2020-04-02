@@ -1,37 +1,13 @@
 {
     "icons":[
         {
-            "name":"HTML5",
-            "url":"./img/logo-html5.png"
-        }, 
-        {
-            "name":"CSS3",
-            "url":"./img/logo-css3.png"
-        }, 
-        {
             "name":"Javascript",
             "url":"./img/logo-javascript.png"
         }, 
         {
-            "name":"jQuery",
-            "url":"./img/logo-jquery.png"
-        }, 
-        {
-            "name":"Bootstrap",
-            "url":"./img/logo-bootstrap.png"
-        }, 
-        {
             "name":"GitHub",
             "url":"./img/logo-github.png"
-        }, 
-        {
-            "name":"Mongo",
-            "url":"./img/logo-mongo.png"
-        }, 
-        {
-            "name":"MySQL",
-            "url":"./img/logo-mysql.png"
-        }, 
+        },  
         {
             "name":"Node.js",
             "url":"./img/logo-node.png"
@@ -39,16 +15,6 @@
         {
             "name":"React",
             "url":"./img/logo-react.png"
-        },
-        {
-            "name":"Handlebars.js",
-            "url":"./img/logo-handlebars.png"
-        },
-        {
-            "name":"Express",
-            "url":"./img/logo-express.png"
         }
-        
-        
     ]
 }
